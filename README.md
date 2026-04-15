@@ -36,13 +36,12 @@ I'm a data professional passionate about turning complex datasets into actionabl
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Abdelrahman's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdel-rahman-nasser&show_icons=true&theme=radical&hide_border=true" alt="Abdelrahman's GitHub Stats" />
 </div>
 
 ---
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE_PROFILE)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/YOUR_X_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-nasser-da/) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)]([https://kaggle.com/YOUR_KAGGLE_PROFILE](https://www.kaggle.com/abdelrahmannasser10))
