@@ -36,7 +36,7 @@ I'm a data professional passionate about turning complex datasets into actionabl
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdel-rahman-nasser&show_icons=true&theme=radical&hide_border=true" alt="Abdelrahman's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdel-rahman-nasser&commits_year=2026&show_icons=true&theme=radical&hide_border=true" alt="Abdelrahman's GitHub Stats" />
 </div>
 
 ---
